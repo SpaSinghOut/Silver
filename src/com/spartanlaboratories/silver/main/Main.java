@@ -1,7 +1,9 @@
 package com.spartanlaboratories.silver.main;
 
 import com.spartanlaboratories.engine.game.Alive;
+import com.spartanlaboratories.engine.game.VisibleObject;
 import com.spartanlaboratories.engine.structure.*;
+import com.spartanlaboratories.engine.structure.Util.NullColorException;
 
 public class Main extends Map{
 	private Main(Engine engine) {
@@ -9,24 +11,54 @@ public class Main extends Map{
 	}
 	@Override
 	public void init() {
-		for(int i = 0; i < 2; i++){
-			new Person(engine).setLocation(Math.random() * 1000 - 500, Math.random() * 1000 - 500);
+		for(int i = 0; i < 500; i++){
+			new Person(engine);
 		}
+		for(int i = 0; i < 10; i++)
+			new Tree(engine).setLocation(Math.random() * 1000 - 500, Math.random() * 1000 - 500);
 		new Human(engine, Alive.Faction.RADIANT);
-		((Human)engine.controllers.get(0)).getPrimaryCamera().worldLocation.setCoords(0,0);
+		Camera camera = ((Human)engine.controllers.get(0)).getPrimaryCamera();
+		camera.worldLocation.setCoords(0,0);
 	}
 
 	@Override
 	protected void update() {
-		if(engine.util.everySecond(.1))
-			new Person(engine).setLocation(Math.random() * 1000 - 500, Math.random() * 1000 - 500);
-		for(Person p:Person.people)if(!p.tick())engine.addToDeleteList(p);
+		//if(engine.util.everySecond(1))new Person(engine);
+		for(Person p:Person.people){
+			p.tick();
+		}
 	}
 	
 	public static void main(String[] args){
 		Engine engine = new Engine();
 		engine.typeHandler.newEntry("map", new Main(engine));
 		engine.init();
+		engine.tracker.initialize(Tracker.TrackerPreset.PRESET_RUN);
 		engine.start();
+	}
+	public static Class getClassFromString(String objectType){
+		Class c = null;
+		switch(objectType.toLowerCase()){
+		case "tree":
+			c = Tree.class;
+			break;
+		case "person":
+			c = Person.class;
+			break;
+		default:
+			System.out.println("Class not found: " + objectType);
+			break;
+		}
+		return c;
+	}
+	@Override
+	public void drawMap(Camera camera){
+		for(VisibleObject p: engine.visibleObjects)
+			try {
+				p.drawMe(camera);
+			} catch (NullColorException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 	}
 }

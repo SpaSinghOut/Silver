@@ -9,22 +9,38 @@ public class Action {
 			protected double perform(Person actor, double[] args){
 				//System.out.println("moving");
 				Location target = new Location(args[0], args[1]);
-				double d1 = actor.engine.util.getRealCentralDistance(actor, target);
-				if(d1<0.0001)
-					return action.maxProgression - action.progression;
-				//actor.goTo(target);
-				actor.move();
-				double d2 = action.actor.engine.util.getRealCentralDistance(actor, target);
-				double diff = Math.abs(d1 - d2);
-				//System.out.println("moved this much: " + diff);
-				//System.out.println("at: " + action.actor.getLocation().x);
-				return diff;
+				if(action.progression == 0){
+					action.maxProgression = actor.engine.util.getRealCentralDistance(actor, target);
+				}
+				actor.goTo(target);
+				double d1 = actor.engine.util.getRealCentralDistance(actor, target)- Math.hypot(actor.getHeight(), actor.getWidth());
+				if(d1<0.0001){
+					actor.setTarget(null);
+					return action.maxProgression;
+				}
+				return 0;
 			}
 		},
 		DONOTHING(){
 			protected double perform(Person actor, double[] args){
 				//System.out.println("doing nothing");
 				return 1;
+			}
+		},
+		GETAPPLE(){
+			protected double perform(Person person, double[] args){
+				Location location = person.locateNearest(Tree.class).getLocation();
+				double[] d = {location.x, location.y};
+				if(person.engine.util.getRealCentralDistance(person, location) > 1)
+				person.taskList.insert(new Action(person, MOVETO, d),0);
+				person.taskList.insert(new Action(person,PICKAPPLE, new double[0]), 1);
+				return 100;
+			}
+		},
+		PICKAPPLE(){
+			protected double perform(Person person, double[] args){
+				((Tree)person.locateNearest(Tree.class)).pickFruit(person);
+				return 100;
 			}
 		};
 		Action action;
@@ -49,6 +65,7 @@ public class Action {
 		this.args = args;
 	}
 	public boolean tick(){
+		actionType.action = this;
 		return progress(actionType.perform(actor, args)) >= maxProgression;
 	}
 	public void setActor(Person actor){
