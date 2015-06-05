@@ -1,0 +1,970 @@
+Inserting 2 visible objects
+At Second number 1, 0.041783739000000014 seconds were used for the tick function
+Inserting 3 visible objects
+At Second number 2, 0.07027016200000001 seconds were used for the tick function
+Inserting 4 visible objects
+At Second number 3, 0.10040558200000005 seconds were used for the tick function
+Inserting 5 visible objects
+At Second number 4, 0.13416387000000005 seconds were used for the tick function
+Inserting 6 visible objects
+Entity Tick took 0.000289982 seconds
+which is 1.74% of the time appropriated for a single tick
+Entity Render took 0.011555384 seconds
+which is 69.33% of the time appropriated for a single tick
+At Second number 5, 0.17353532500000002 seconds were used for the tick function
+Inserting 7 visible objects
+At Second number 6, 0.23095615299999994 seconds were used for the tick function
+Inserting 8 visible objects
+At Second number 7, 0.2662382849999999 seconds were used for the tick function
+Inserting 9 visible objects
+At Second number 8, 0.29838451499999974 seconds were used for the tick function
+Inserting 10 visible objects
+At Second number 9, 0.32706312699999956 seconds were used for the tick function
+Inserting 11 visible objects
+Entity Tick took 0.000293506 seconds
+which is 1.76% of the time appropriated for a single tick
+Entity Render took 0.009840817 seconds
+which is 59.04% of the time appropriated for a single tick
+At Second number 10, 0.3514622809999996 seconds were used for the tick function
+Inserting 12 visible objects
+At Second number 11, 0.3896956449999995 seconds were used for the tick function
+Inserting 13 visible objects
+At Second number 12, 0.4447671169999996 seconds were used for the tick function
+Inserting 14 visible objects
+At Second number 13, 0.49233500099999983 seconds were used for the tick function
+Inserting 15 visible objects
+At Second number 14, 0.51707818 seconds were used for the tick function
+Inserting 16 visible objects
+Entity Tick took 0.000302898 seconds
+which is 1.82% of the time appropriated for a single tick
+Entity Render took 0.009265816 seconds
+which is 55.59% of the time appropriated for a single tick
+Entity Tick took 0.000302898 seconds
+which is 1.82% of the time appropriated for a single tick
+Entity Render took 0.009265816 seconds
+which is 55.59% of the time appropriated for a single tick
+At Second number 15, 0.5444921709999999 seconds were used for the tick function
+Inserting 17 visible objects
+At Second number 16, 0.5754620119999996 seconds were used for the tick function
+Inserting 18 visible objects
+At Second number 17, 0.6014171459999998 seconds were used for the tick function
+Inserting 19 visible objects
+At Second number 18, 0.6270460369999998 seconds were used for the tick function
+Inserting 20 visible objects
+At Second number 19, 0.6536071479999995 seconds were used for the tick function
+Inserting 21 visible objects
+Entity Tick took 0.000282277 seconds
+which is 1.69% of the time appropriated for a single tick
+Entity Render took 0.008988399 seconds
+which is 53.93% of the time appropriated for a single tick
+At Second number 20, 0.6767710899999994 seconds were used for the tick function
+Inserting 22 visible objects
+At Second number 21, 0.7016715769999992 seconds were used for the tick function
+Inserting 23 visible objects
+At Second number 22, 0.7252670889999993 seconds were used for the tick function
+Inserting 24 visible objects
+At Second number 23, 0.7516955129999988 seconds were used for the tick function
+Inserting 25 visible objects
+At Second number 24, 0.776810756999999 seconds were used for the tick function
+Inserting 26 visible objects
+Entity Tick took 0.000269270 seconds
+which is 1.62% of the time appropriated for a single tick
+Entity Render took 0.008834726 seconds
+which is 53.01% of the time appropriated for a single tick
+At Second number 25, 0.807223179999999 seconds were used for the tick function
+Inserting 27 visible objects
+At Second number 26, 0.8329587649999992 seconds were used for the tick function
+Inserting 28 visible objects
+At Second number 27, 0.8513603769999992 seconds were used for the tick function
+Inserting 29 visible objects
+At Second number 28, 0.8696115279999994 seconds were used for the tick function
+Inserting 30 visible objects
+At Second number 29, 0.8907434629999996 seconds were used for the tick function
+Inserting 31 visible objects
+Entity Tick took 0.000253554 seconds
+which is 1.52% of the time appropriated for a single tick
+Entity Render took 0.008751938 seconds
+which is 52.51% of the time appropriated for a single tick
+Entity Tick took 0.000253554 seconds
+which is 1.52% of the time appropriated for a single tick
+Entity Render took 0.008751938 seconds
+which is 52.51% of the time appropriated for a single tick
+At Second number 30, 0.9119902969999992 seconds were used for the tick function
+Inserting 32 visible objects
+At Second number 31, 0.9382395259999992 seconds were used for the tick function
+Inserting 33 visible objects
+At Second number 32, 0.9563901339999993 seconds were used for the tick function
+Inserting 34 visible objects
+At Second number 33, 0.9772389119999991 seconds were used for the tick function
+Inserting 35 visible objects
+At Second number 34, 0.9980958899999991 seconds were used for the tick function
+Inserting 36 visible objects
+Entity Tick took 0.000243477 seconds
+which is 1.46% of the time appropriated for a single tick
+Entity Render took 0.008684182 seconds
+which is 52.11% of the time appropriated for a single tick
+At Second number 35, 1.021906161999999 seconds were used for the tick function
+Inserting 37 visible objects
+At Second number 36, 1.044078382999999 seconds were used for the tick function
+Inserting 38 visible objects
+At Second number 37, 1.0657219199999988 seconds were used for the tick function
+Inserting 39 visible objects
+At Second number 38, 1.0870987029999983 seconds were used for the tick function
+Inserting 40 visible objects
+At Second number 39, 1.1083092899999991 seconds were used for the tick function
+Inserting 41 visible objects
+Entity Tick took 0.000235517 seconds
+which is 1.41% of the time appropriated for a single tick
+Entity Render took 0.008622660 seconds
+which is 51.74% of the time appropriated for a single tick
+At Second number 40, 1.1298652729999985 seconds were used for the tick function
+Inserting 42 visible objects
+At Second number 41, 1.1560796209999977 seconds were used for the tick function
+Inserting 43 visible objects
+At Second number 42, 1.1803467699999974 seconds were used for the tick function
+Inserting 44 visible objects
+At Second number 43, 1.2017392879999977 seconds were used for the tick function
+Inserting 45 visible objects
+At Second number 44, 1.2257396939999976 seconds were used for the tick function
+Inserting 46 visible objects
+Entity Tick took 0.000231788 seconds
+which is 1.39% of the time appropriated for a single tick
+Entity Render took 0.008581650 seconds
+which is 51.49% of the time appropriated for a single tick
+Entity Tick took 0.000231788 seconds
+which is 1.39% of the time appropriated for a single tick
+Entity Render took 0.008581650 seconds
+which is 51.49% of the time appropriated for a single tick
+At Second number 45, 1.2510874809999983 seconds were used for the tick function
+Inserting 47 visible objects
+At Second number 46, 1.2782443109999984 seconds were used for the tick function
+Inserting 48 visible objects
+At Second number 47, 1.3032439689999986 seconds were used for the tick function
+Inserting 49 visible objects
+At Second number 48, 1.3261774269999984 seconds were used for the tick function
+Inserting 50 visible objects
+At Second number 49, 1.3476041429999983 seconds were used for the tick function
+Inserting 51 visible objects
+Entity Tick took 0.000228703 seconds
+which is 1.37% of the time appropriated for a single tick
+Entity Render took 0.008540539 seconds
+which is 51.24% of the time appropriated for a single tick
+At Second number 50, 1.3717994749999973 seconds were used for the tick function
+Inserting 52 visible objects
+At Second number 51, 1.397976886999997 seconds were used for the tick function
+Inserting 53 visible objects
+At Second number 52, 1.421865810999997 seconds were used for the tick function
+Inserting 54 visible objects
+At Second number 53, 1.4505266359999964 seconds were used for the tick function
+Inserting 55 visible objects
+At Second number 54, 1.4743109129999954 seconds were used for the tick function
+Inserting 56 visible objects
+Entity Tick took 0.000227182 seconds
+which is 1.36% of the time appropriated for a single tick
+Entity Render took 0.008521196 seconds
+which is 51.13% of the time appropriated for a single tick
+At Second number 55, 1.4987647839999954 seconds were used for the tick function
+Inserting 57 visible objects
+At Second number 56, 1.5239915109999957 seconds were used for the tick function
+Inserting 58 visible objects
+At Second number 57, 1.5482183019999967 seconds were used for the tick function
+Inserting 59 visible objects
+At Second number 58, 1.5721913609999967 seconds were used for the tick function
+Inserting 60 visible objects
+At Second number 59, 1.594357419999997 seconds were used for the tick function
+Inserting 61 visible objects
+Entity Tick took 0.000224963 seconds
+which is 1.35% of the time appropriated for a single tick
+Entity Render took 0.008498844 seconds
+which is 50.99% of the time appropriated for a single tick
+Entity Tick took 0.000224963 seconds
+which is 1.35% of the time appropriated for a single tick
+Entity Render took 0.008498844 seconds
+which is 50.99% of the time appropriated for a single tick
+At Second number 60, 1.6191094869999967 seconds were used for the tick function
+Inserting 62 visible objects
+At Second number 61, 1.650600497999997 seconds were used for the tick function
+Inserting 63 visible objects
+At Second number 62, 1.680967779999997 seconds were used for the tick function
+Inserting 64 visible objects
+At Second number 63, 1.7068531559999964 seconds were used for the tick function
+Inserting 65 visible objects
+At Second number 64, 1.7353915599999967 seconds were used for the tick function
+Inserting 66 visible objects
+Entity Tick took 0.000225639 seconds
+which is 1.35% of the time appropriated for a single tick
+Entity Render took 0.008484053 seconds
+which is 50.90% of the time appropriated for a single tick
+At Second number 65, 1.7593673469999969 seconds were used for the tick function
+Inserting 67 visible objects
+At Second number 66, 1.7853751369999964 seconds were used for the tick function
+Inserting 68 visible objects
+At Second number 67, 1.8083174809999967 seconds were used for the tick function
+Inserting 69 visible objects
+At Second number 68, 1.835353938999997 seconds were used for the tick function
+Inserting 70 visible objects
+At Second number 69, 1.858778465999997 seconds were used for the tick function
+Inserting 71 visible objects
+Entity Tick took 0.000224365 seconds
+which is 1.35% of the time appropriated for a single tick
+Entity Render took 0.008467196 seconds
+which is 50.80% of the time appropriated for a single tick
+At Second number 70, 1.8843020299999969 seconds were used for the tick function
+Inserting 72 visible objects
+At Second number 71, 1.914006558999997 seconds were used for the tick function
+Inserting 73 visible objects
+At Second number 72, 1.9441283039999968 seconds were used for the tick function
+Inserting 74 visible objects
+At Second number 73, 1.970997192999997 seconds were used for the tick function
+Inserting 75 visible objects
+At Second number 74, 1.9989289319999972 seconds were used for the tick function
+Inserting 76 visible objects
+Entity Tick took 0.000225067 seconds
+which is 1.35% of the time appropriated for a single tick
+Entity Render took 0.008456224 seconds
+which is 50.74% of the time appropriated for a single tick
+Entity Tick took 0.000225067 seconds
+which is 1.35% of the time appropriated for a single tick
+Entity Render took 0.008456224 seconds
+which is 50.74% of the time appropriated for a single tick
+At Second number 75, 2.025058469999998 seconds were used for the tick function
+Inserting 77 visible objects
+At Second number 76, 2.059803017999999 seconds were used for the tick function
+Inserting 78 visible objects
+At Second number 77, 2.0895513269999997 seconds were used for the tick function
+Inserting 79 visible objects
+At Second number 78, 2.118793516 seconds were used for the tick function
+Inserting 80 visible objects
+At Second number 79, 2.153006633000001 seconds were used for the tick function
+Inserting 81 visible objects
+Entity Tick took 0.000227015 seconds
+which is 1.36% of the time appropriated for a single tick
+Entity Render took 0.008441844 seconds
+which is 50.65% of the time appropriated for a single tick
+At Second number 80, 2.178742219000001 seconds were used for the tick function
+Inserting 82 visible objects
+At Second number 81, 2.211350796000001 seconds were used for the tick function
+Inserting 83 visible objects
+At Second number 82, 2.2410566950000015 seconds were used for the tick function
+Inserting 84 visible objects
+At Second number 83, 2.271908208000002 seconds were used for the tick function
+Inserting 85 visible objects
+At Second number 84, 2.307775796000001 seconds were used for the tick function
+Inserting 86 visible objects
+Entity Tick took 0.000229497 seconds
+which is 1.38% of the time appropriated for a single tick
+Entity Render took 0.008431669 seconds
+which is 50.59% of the time appropriated for a single tick
+At Second number 85, 2.3403098250000007 seconds were used for the tick function
+Inserting 87 visible objects
+At Second number 86, 2.372720057000001 seconds were used for the tick function
+Inserting 88 visible objects
+At Second number 87, 2.4039238050000016 seconds were used for the tick function
+Inserting 89 visible objects
+At Second number 88, 2.436918125000002 seconds were used for the tick function
+Inserting 90 visible objects
+At Second number 89, 2.467505637000002 seconds were used for the tick function
+Inserting 91 visible objects
+Entity Tick took 0.000231572 seconds
+which is 1.39% of the time appropriated for a single tick
+Entity Render took 0.008419581 seconds
+which is 50.52% of the time appropriated for a single tick
+Entity Tick took 0.000231572 seconds
+which is 1.39% of the time appropriated for a single tick
+Entity Render took 0.008419581 seconds
+which is 50.52% of the time appropriated for a single tick
+At Second number 90, 2.500480125000003 seconds were used for the tick function
+Inserting 92 visible objects
+At Second number 91, 2.5385349740000027 seconds were used for the tick function
+Inserting 93 visible objects
+At Second number 92, 2.5697448780000016 seconds were used for the tick function
+Inserting 94 visible objects
+At Second number 93, 2.6022734320000014 seconds were used for the tick function
+Inserting 95 visible objects
+At Second number 94, 2.6371923850000014 seconds were used for the tick function
+Inserting 96 visible objects
+Entity Tick took 0.000234717 seconds
+which is 1.41% of the time appropriated for a single tick
+Entity Render took 0.008413275 seconds
+which is 50.48% of the time appropriated for a single tick
+At Second number 95, 2.675215780000003 seconds were used for the tick function
+Inserting 97 visible objects
+At Second number 96, 2.7109281120000044 seconds were used for the tick function
+Inserting 98 visible objects
+At Second number 97, 2.743347915000007 seconds were used for the tick function
+Inserting 99 visible objects
+At Second number 98, 2.7807489130000054 seconds were used for the tick function
+Inserting 100 visible objects
+At Second number 99, 2.8179515650000058 seconds were used for the tick function
+Inserting 101 visible objects
+Entity Tick took 0.000237839 seconds
+which is 1.43% of the time appropriated for a single tick
+Entity Render took 0.008401649 seconds
+which is 50.41% of the time appropriated for a single tick
+At Second number 100, 2.853663211000005 seconds were used for the tick function
+Inserting 102 visible objects
+At Second number 101, 2.8930914270000043 seconds were used for the tick function
+Inserting 103 visible objects
+At Second number 102, 2.935517387000005 seconds were used for the tick function
+Inserting 104 visible objects
+At Second number 103, 2.970196275000005 seconds were used for the tick function
+Inserting 105 visible objects
+At Second number 104, 3.0150447780000063 seconds were used for the tick function
+Inserting 106 visible objects
+Entity Tick took 0.000242610 seconds
+which is 1.46% of the time appropriated for a single tick
+Entity Render took 0.008397021 seconds
+which is 50.38% of the time appropriated for a single tick
+Entity Tick took 0.000242610 seconds
+which is 1.46% of the time appropriated for a single tick
+Entity Render took 0.008397021 seconds
+which is 50.38% of the time appropriated for a single tick
+At Second number 105, 3.056598704000008 seconds were used for the tick function
+Inserting 107 visible objects
+At Second number 106, 3.1002243120000075 seconds were used for the tick function
+Inserting 108 visible objects
+At Second number 107, 3.144576952000007 seconds were used for the tick function
+Inserting 109 visible objects
+At Second number 108, 3.1839928670000077 seconds were used for the tick function
+Inserting 110 visible objects
+At Second number 109, 3.222529217000006 seconds were used for the tick function
+Inserting 111 visible objects
+Entity Tick took 0.000247014 seconds
+which is 1.48% of the time appropriated for a single tick
+Entity Render took 0.008385240 seconds
+which is 50.31% of the time appropriated for a single tick
+At Second number 110, 3.260164814000006 seconds were used for the tick function
+Inserting 112 visible objects
+At Second number 111, 3.3060248760000057 seconds were used for the tick function
+Inserting 113 visible objects
+At Second number 112, 3.3465672440000076 seconds were used for the tick function
+Inserting 114 visible objects
+At Second number 113, 3.3872354680000067 seconds were used for the tick function
+Inserting 115 visible objects
+At Second number 114, 3.4249873290000052 seconds were used for the tick function
+Inserting 116 visible objects
+Entity Tick took 0.000251036 seconds
+which is 1.51% of the time appropriated for a single tick
+Entity Render took 0.008379353 seconds
+which is 50.28% of the time appropriated for a single tick
+At Second number 115, 3.463692620000006 seconds were used for the tick function
+Inserting 117 visible objects
+At Second number 116, 3.5096176550000053 seconds were used for the tick function
+Inserting 118 visible objects
+At Second number 117, 3.5521297970000054 seconds were used for the tick function
+Inserting 119 visible objects
+At Second number 118, 3.593638581000005 seconds were used for the tick function
+Inserting 120 visible objects
+At Second number 119, 3.6358019030000057 seconds were used for the tick function
+Inserting 121 visible objects
+Entity Tick took 0.000255504 seconds
+which is 1.53% of the time appropriated for a single tick
+Entity Render took 0.008368492 seconds
+which is 50.21% of the time appropriated for a single tick
+Entity Tick took 0.000255504 seconds
+which is 1.53% of the time appropriated for a single tick
+Entity Render took 0.008368492 seconds
+which is 50.21% of the time appropriated for a single tick
+At Second number 120, 3.678709368000007 seconds were used for the tick function
+Inserting 122 visible objects
+At Second number 121, 3.725865511000006 seconds were used for the tick function
+Inserting 123 visible objects
+At Second number 122, 3.7719779540000076 seconds were used for the tick function
+Inserting 124 visible objects
+At Second number 123, 3.822023782000006 seconds were used for the tick function
+Inserting 125 visible objects
+At Second number 124, 3.8680644080000044 seconds were used for the tick function
+Inserting 126 visible objects
+Entity Tick took 0.000260898 seconds
+which is 1.57% of the time appropriated for a single tick
+Entity Render took 0.008362728 seconds
+which is 50.18% of the time appropriated for a single tick
+At Second number 125, 3.912843842000004 seconds were used for the tick function
+Inserting 127 visible objects
+At Second number 126, 3.9555358630000033 seconds were used for the tick function
+Inserting 128 visible objects
+At Second number 127, 4.006461939000002 seconds were used for the tick function
+Inserting 129 visible objects
+At Second number 128, 4.048867385000002 seconds were used for the tick function
+Inserting 130 visible objects
+At Second number 129, 4.097648582000001 seconds were used for the tick function
+Inserting 131 visible objects
+Entity Tick took 0.000265794 seconds
+which is 1.59% of the time appropriated for a single tick
+Entity Render took 0.008352159 seconds
+which is 50.11% of the time appropriated for a single tick
+At Second number 130, 4.145756096000002 seconds were used for the tick function
+Inserting 132 visible objects
+At Second number 131, 4.198209417000004 seconds were used for the tick function
+Inserting 133 visible objects
+At Second number 132, 4.249039730000005 seconds were used for the tick function
+Inserting 134 visible objects
+At Second number 133, 4.302594213000009 seconds were used for the tick function
+Inserting 135 visible objects
+At Second number 134, 4.35152725300001 seconds were used for the tick function
+Inserting 136 visible objects
+Entity Tick took 0.000271521 seconds
+which is 1.63% of the time appropriated for a single tick
+Entity Render took 0.008345208 seconds
+which is 50.07% of the time appropriated for a single tick
+Entity Tick took 0.000271521 seconds
+which is 1.63% of the time appropriated for a single tick
+Entity Render took 0.008345208 seconds
+which is 50.07% of the time appropriated for a single tick
+At Second number 135, 4.398020653000011 seconds were used for the tick function
+Inserting 137 visible objects
+At Second number 136, 4.448604746000011 seconds were used for the tick function
+Inserting 138 visible objects
+At Second number 137, 4.507953629000009 seconds were used for the tick function
+Inserting 139 visible objects
+At Second number 138, 4.556159637000011 seconds were used for the tick function
+Inserting 140 visible objects
+At Second number 139, 4.611126472000011 seconds were used for the tick function
+Inserting 141 visible objects
+Entity Tick took 0.000277601 seconds
+which is 1.67% of the time appropriated for a single tick
+Entity Render took 0.008334008 seconds
+which is 50.00% of the time appropriated for a single tick
+At Second number 140, 4.663075041000011 seconds were used for the tick function
+Inserting 142 visible objects
+At Second number 141, 4.712746746000012 seconds were used for the tick function
+Inserting 143 visible objects
+At Second number 142, 4.768907057000013 seconds were used for the tick function
+Inserting 144 visible objects
+At Second number 143, 4.830555377000013 seconds were used for the tick function
+Inserting 145 visible objects
+At Second number 144, 4.880616247000011 seconds were used for the tick function
+Inserting 146 visible objects
+Entity Tick took 0.000283873 seconds
+which is 1.70% of the time appropriated for a single tick
+Entity Render took 0.008326757 seconds
+which is 49.96% of the time appropriated for a single tick
+At Second number 145, 4.938939213000014 seconds were used for the tick function
+Inserting 147 visible objects
+At Second number 146, 4.994536643000015 seconds were used for the tick function
+Inserting 148 visible objects
+At Second number 147, 5.0451583510000155 seconds were used for the tick function
+Inserting 149 visible objects
+At Second number 148, 5.105916172000013 seconds were used for the tick function
+Inserting 150 visible objects
+At Second number 149, 5.160060206000013 seconds were used for the tick function
+Inserting 151 visible objects
+Entity Tick took 0.000289619 seconds
+which is 1.74% of the time appropriated for a single tick
+Entity Render took 0.008316533 seconds
+which is 49.90% of the time appropriated for a single tick
+Entity Tick took 0.000289619 seconds
+which is 1.74% of the time appropriated for a single tick
+Entity Render took 0.008316533 seconds
+which is 49.90% of the time appropriated for a single tick
+At Second number 150, 5.212607914000014 seconds were used for the tick function
+Inserting 152 visible objects
+At Second number 151, 5.269192282000009 seconds were used for the tick function
+Inserting 153 visible objects
+At Second number 152, 5.335176821000013 seconds were used for the tick function
+Inserting 154 visible objects
+At Second number 153, 5.392798053000014 seconds were used for the tick function
+Inserting 155 visible objects
+At Second number 154, 5.455967466000014 seconds were used for the tick function
+Inserting 156 visible objects
+Entity Tick took 0.000296523 seconds
+which is 1.78% of the time appropriated for a single tick
+Entity Render took 0.008308898 seconds
+which is 49.85% of the time appropriated for a single tick
+At Second number 155, 5.514677543000011 seconds were used for the tick function
+Inserting 157 visible objects
+At Second number 156, 5.578471401000012 seconds were used for the tick function
+Inserting 158 visible objects
+At Second number 157, 5.641759137000014 seconds were used for the tick function
+Inserting 159 visible objects
+At Second number 158, 5.69727107000001 seconds were used for the tick function
+Inserting 160 visible objects
+At Second number 159, 5.75487246500001 seconds were used for the tick function
+Inserting 161 visible objects
+Entity Tick took 0.000303252 seconds
+which is 1.82% of the time appropriated for a single tick
+Entity Render took 0.008297895 seconds
+which is 49.79% of the time appropriated for a single tick
+At Second number 160, 5.821816588000011 seconds were used for the tick function
+Inserting 162 visible objects
+At Second number 161, 5.884944965000007 seconds were used for the tick function
+Inserting 163 visible objects
+At Second number 162, 5.952442398000008 seconds were used for the tick function
+Inserting 164 visible objects
+At Second number 163, 6.011493757000006 seconds were used for the tick function
+Inserting 165 visible objects
+At Second number 164, 6.073081883000006 seconds were used for the tick function
+Inserting 166 visible objects
+Entity Tick took 0.000310022 seconds
+which is 1.86% of the time appropriated for a single tick
+Entity Render took 0.008290575 seconds
+which is 49.74% of the time appropriated for a single tick
+Entity Tick took 0.000310022 seconds
+which is 1.86% of the time appropriated for a single tick
+Entity Render took 0.008290575 seconds
+which is 49.74% of the time appropriated for a single tick
+At Second number 165, 6.137724521000005 seconds were used for the tick function
+Inserting 167 visible objects
+At Second number 166, 6.197870884000006 seconds were used for the tick function
+Inserting 168 visible objects
+At Second number 167, 6.266914726000005 seconds were used for the tick function
+Inserting 169 visible objects
+At Second number 168, 6.333456006000003 seconds were used for the tick function
+Inserting 170 visible objects
+At Second number 169, 6.392843196000005 seconds were used for the tick function
+Inserting 171 visible objects
+Entity Tick took 0.000316515 seconds
+which is 1.90% of the time appropriated for a single tick
+Entity Render took 0.008280240 seconds
+which is 49.68% of the time appropriated for a single tick
+At Second number 170, 6.456282083000007 seconds were used for the tick function
+Inserting 172 visible objects
+At Second number 171, 6.524064726000006 seconds were used for the tick function
+Inserting 173 visible objects
+At Second number 172, 6.583903998000006 seconds were used for the tick function
+Inserting 174 visible objects
+At Second number 173, 6.655083812000005 seconds were used for the tick function
+Inserting 175 visible objects
+At Second number 174, 6.723553138000006 seconds were used for the tick function
+Inserting 176 visible objects
+Entity Tick took 0.000323339 seconds
+which is 1.94% of the time appropriated for a single tick
+Entity Render took 0.008272991 seconds
+which is 49.64% of the time appropriated for a single tick
+At Second number 175, 6.789520580000007 seconds were used for the tick function
+Inserting 177 visible objects
+At Second number 176, 6.860114245000003 seconds were used for the tick function
+Inserting 178 visible objects
+At Second number 177, 6.928258011000002 seconds were used for the tick function
+Inserting 179 visible objects
+At Second number 178, 6.994391655000003 seconds were used for the tick function
+Inserting 180 visible objects
+At Second number 179, 7.069772269000005 seconds were used for the tick function
+Inserting 181 visible objects
+Entity Tick took 0.000330404 seconds
+which is 1.98% of the time appropriated for a single tick
+Entity Render took 0.008262321 seconds
+which is 49.57% of the time appropriated for a single tick
+Entity Tick took 0.000330404 seconds
+which is 1.98% of the time appropriated for a single tick
+Entity Render took 0.008262321 seconds
+which is 49.57% of the time appropriated for a single tick
+At Second number 180, 7.136202061000008 seconds were used for the tick function
+Inserting 182 visible objects
+At Second number 181, 7.209730551000007 seconds were used for the tick function
+Inserting 183 visible objects
+At Second number 182, 7.279500748000007 seconds were used for the tick function
+Inserting 184 visible objects
+At Second number 183, 7.350731171000011 seconds were used for the tick function
+Inserting 185 visible objects
+At Second number 184, 7.427132922000011 seconds were used for the tick function
+Inserting 186 visible objects
+Entity Tick took 0.000337985 seconds
+which is 2.03% of the time appropriated for a single tick
+Entity Render took 0.008254411 seconds
+which is 49.53% of the time appropriated for a single tick
+At Second number 185, 7.502572355000013 seconds were used for the tick function
+Inserting 187 visible objects
+At Second number 186, 7.569216223000011 seconds were used for the tick function
+Inserting 188 visible objects
+At Second number 187, 7.640072527000013 seconds were used for the tick function
+Inserting 189 visible objects
+At Second number 188, 7.7202079530000125 seconds were used for the tick function
+Inserting 190 visible objects
+At Second number 189, 7.7884515750000105 seconds were used for the tick function
+Inserting 191 visible objects
+Entity Tick took 0.000344938 seconds
+which is 2.07% of the time appropriated for a single tick
+Entity Render took 0.008244101 seconds
+which is 49.46% of the time appropriated for a single tick
+At Second number 190, 7.863796633000011 seconds were used for the tick function
+Inserting 192 visible objects
+At Second number 191, 7.939015836000013 seconds were used for the tick function
+Inserting 193 visible objects
+At Second number 192, 8.021129916000008 seconds were used for the tick function
+Inserting 194 visible objects
+At Second number 193, 8.103401999000004 seconds were used for the tick function
+Inserting 195 visible objects
+At Second number 194, 8.174360213000003 seconds were used for the tick function
+Inserting 196 visible objects
+Entity Tick took 0.000352659 seconds
+which is 2.12% of the time appropriated for a single tick
+Entity Render took 0.008237568 seconds
+which is 49.43% of the time appropriated for a single tick
+Entity Tick took 0.000352659 seconds
+which is 2.12% of the time appropriated for a single tick
+Entity Render took 0.008237568 seconds
+which is 49.43% of the time appropriated for a single tick
+At Second number 195, 8.251492422000007 seconds were used for the tick function
+Inserting 197 visible objects
+At Second number 196, 8.328787406000009 seconds were used for the tick function
+Inserting 198 visible objects
+At Second number 197, 8.396812848000005 seconds were used for the tick function
+Inserting 199 visible objects
+At Second number 198, 8.487106262 seconds were used for the tick function
+Inserting 200 visible objects
+At Second number 199, 8.568849645000007 seconds were used for the tick function
+Inserting 201 visible objects
+Entity Tick took 0.000360230 seconds
+which is 2.16% of the time appropriated for a single tick
+Entity Render took 0.008228223 seconds
+which is 49.37% of the time appropriated for a single tick
+At Second number 200, 8.644901897000002 seconds were used for the tick function
+Inserting 202 visible objects
+At Second number 201, 8.733834257000007 seconds were used for the tick function
+Inserting 203 visible objects
+At Second number 202, 8.815376563000001 seconds were used for the tick function
+Inserting 204 visible objects
+At Second number 203, 8.896520124999999 seconds were used for the tick function
+Inserting 205 visible objects
+At Second number 204, 8.975436067999995 seconds were used for the tick function
+Inserting 206 visible objects
+Entity Tick took 0.000368458 seconds
+which is 2.21% of the time appropriated for a single tick
+Entity Render took 0.008219703 seconds
+which is 49.32% of the time appropriated for a single tick
+At Second number 205, 9.063420475999989 seconds were used for the tick function
+Inserting 207 visible objects
+At Second number 206, 9.145127609999987 seconds were used for the tick function
+Inserting 208 visible objects
+At Second number 207, 9.228667044999986 seconds were used for the tick function
+Inserting 209 visible objects
+At Second number 208, 9.305398456999983 seconds were used for the tick function
+Inserting 210 visible objects
+At Second number 209, 9.393382858999983 seconds were used for the tick function
+Inserting 211 visible objects
+Entity Tick took 0.000375994 seconds
+which is 2.26% of the time appropriated for a single tick
+Entity Render took 0.008212582 seconds
+which is 49.28% of the time appropriated for a single tick
+Entity Tick took 0.000375994 seconds
+which is 2.26% of the time appropriated for a single tick
+Entity Render took 0.008212582 seconds
+which is 49.28% of the time appropriated for a single tick
+At Second number 210, 9.474453920999979 seconds were used for the tick function
+Inserting 212 visible objects
+At Second number 211, 9.56698383999997 seconds were used for the tick function
+Inserting 213 visible objects
+At Second number 212, 9.657206119999973 seconds were used for the tick function
+Inserting 214 visible objects
+At Second number 213, 9.739961066999975 seconds were used for the tick function
+Inserting 215 visible objects
+At Second number 214, 9.82446485799997 seconds were used for the tick function
+Inserting 216 visible objects
+Entity Tick took 0.000384338 seconds
+which is 2.31% of the time appropriated for a single tick
+Entity Render took 0.008202669 seconds
+which is 49.22% of the time appropriated for a single tick
+At Second number 215, 9.915143331999968 seconds were used for the tick function
+Inserting 217 visible objects
+At Second number 216, 10.009848206999967 seconds were used for the tick function
+Inserting 218 visible objects
+At Second number 217, 10.100568407999967 seconds were used for the tick function
+Inserting 219 visible objects
+At Second number 218, 10.186130954999964 seconds were used for the tick function
+Inserting 220 visible objects
+At Second number 219, 10.27480067999997 seconds were used for the tick function
+Inserting 221 visible objects
+Entity Tick took 0.000392453 seconds
+which is 2.35% of the time appropriated for a single tick
+Entity Render took 0.008191731 seconds
+which is 49.15% of the time appropriated for a single tick
+At Second number 220, 10.359947382999968 seconds were used for the tick function
+Inserting 222 visible objects
+At Second number 221, 10.458323690999972 seconds were used for the tick function
+Inserting 223 visible objects
+At Second number 222, 10.550372801999965 seconds were used for the tick function
+Inserting 224 visible objects
+At Second number 223, 10.638537766999963 seconds were used for the tick function
+Inserting 225 visible objects
+At Second number 224, 10.739511025999967 seconds were used for the tick function
+Inserting 226 visible objects
+Entity Tick took 0.000401212 seconds
+which is 2.41% of the time appropriated for a single tick
+Entity Render took 0.008185868 seconds
+which is 49.12% of the time appropriated for a single tick
+Entity Tick took 0.000401212 seconds
+which is 2.41% of the time appropriated for a single tick
+Entity Render took 0.008185868 seconds
+which is 49.12% of the time appropriated for a single tick
+At Second number 225, 10.831995805999963 seconds were used for the tick function
+Inserting 227 visible objects
+At Second number 226, 10.928472793999957 seconds were used for the tick function
+Inserting 228 visible objects
+At Second number 227, 11.02005818099996 seconds were used for the tick function
+Inserting 229 visible objects
+At Second number 228, 11.109667645999957 seconds were used for the tick function
+Inserting 230 visible objects
+At Second number 229, 11.210702454999963 seconds were used for the tick function
+Inserting 231 visible objects
+Entity Tick took 0.000409578 seconds
+which is 2.46% of the time appropriated for a single tick
+Entity Render took 0.008178775 seconds
+which is 49.07% of the time appropriated for a single tick
+At Second number 230, 11.303549725999972 seconds were used for the tick function
+Inserting 232 visible objects
+At Second number 231, 11.406351173999974 seconds were used for the tick function
+Inserting 233 visible objects
+At Second number 232, 11.495351925999973 seconds were used for the tick function
+Inserting 234 visible objects
+At Second number 233, 11.584789032999971 seconds were used for the tick function
+Inserting 235 visible objects
+At Second number 234, 11.665858041999972 seconds were used for the tick function
+Inserting 236 visible objects
+Entity Tick took 0.000416883 seconds
+which is 2.50% of the time appropriated for a single tick
+Entity Render took 0.008171427 seconds
+which is 49.03% of the time appropriated for a single tick
+At Second number 235, 11.755246590999972 seconds were used for the tick function
+Inserting 237 visible objects
+At Second number 236, 11.850826915999972 seconds were used for the tick function
+Inserting 238 visible objects
+At Second number 237, 11.93514878699997 seconds were used for the tick function
+Inserting 239 visible objects
+At Second number 238, 12.025380644999974 seconds were used for the tick function
+Inserting 240 visible objects
+At Second number 239, 12.104387549999966 seconds were used for the tick function
+Inserting 241 visible objects
+Entity Tick took 0.000423919 seconds
+which is 2.54% of the time appropriated for a single tick
+Entity Render took 0.008165245 seconds
+which is 48.99% of the time appropriated for a single tick
+Entity Tick took 0.000423919 seconds
+which is 2.54% of the time appropriated for a single tick
+Entity Render took 0.008165245 seconds
+which is 48.99% of the time appropriated for a single tick
+At Second number 240, 12.208177989999964 seconds were used for the tick function
+Inserting 242 visible objects
+At Second number 241, 12.307741632999964 seconds were used for the tick function
+Inserting 243 visible objects
+At Second number 242, 12.39207854399997 seconds were used for the tick function
+Inserting 244 visible objects
+At Second number 243, 12.462651006999968 seconds were used for the tick function
+Inserting 245 visible objects
+At Second number 244, 12.537359302999969 seconds were used for the tick function
+Inserting 246 visible objects
+Entity Tick took 0.000430160 seconds
+which is 2.58% of the time appropriated for a single tick
+Entity Render took 0.008159828 seconds
+which is 48.96% of the time appropriated for a single tick
+At Second number 245, 12.64604749199996 seconds were used for the tick function
+Inserting 247 visible objects
+At Second number 246, 12.754463472999966 seconds were used for the tick function
+Inserting 248 visible objects
+At Second number 247, 12.843281606999962 seconds were used for the tick function
+Inserting 249 visible objects
+At Second number 248, 12.939177230999961 seconds were used for the tick function
+Inserting 250 visible objects
+At Second number 249, 13.036391511999957 seconds were used for the tick function
+Inserting 251 visible objects
+Entity Tick took 0.000437936 seconds
+which is 2.63% of the time appropriated for a single tick
+Entity Render took 0.008153342 seconds
+which is 48.92% of the time appropriated for a single tick
+At Second number 250, 13.137219082999954 seconds were used for the tick function
+Inserting 252 visible objects
+At Second number 251, 13.229376940999956 seconds were used for the tick function
+Inserting 253 visible objects
+At Second number 252, 13.331385695999954 seconds were used for the tick function
+Inserting 254 visible objects
+At Second number 253, 13.428085641999955 seconds were used for the tick function
+Inserting 255 visible objects
+At Second number 254, 13.532139398999947 seconds were used for the tick function
+Inserting 256 visible objects
+Entity Tick took 0.000445977 seconds
+which is 2.68% of the time appropriated for a single tick
+Entity Render took 0.008144314 seconds
+which is 48.87% of the time appropriated for a single tick
+Entity Tick took 0.000445977 seconds
+which is 2.68% of the time appropriated for a single tick
+Entity Render took 0.008144314 seconds
+which is 48.87% of the time appropriated for a single tick
+At Second number 255, 13.646015330999946 seconds were used for the tick function
+Inserting 257 visible objects
+At Second number 256, 13.778991190999943 seconds were used for the tick function
+Inserting 258 visible objects
+At Second number 257, 13.88025854399994 seconds were used for the tick function
+Inserting 259 visible objects
+At Second number 258, 13.990361143999943 seconds were used for the tick function
+Inserting 260 visible objects
+At Second number 259, 14.109013079999945 seconds were used for the tick function
+Inserting 261 visible objects
+Entity Tick took 0.000455296 seconds
+which is 2.73% of the time appropriated for a single tick
+Entity Render took 0.008158803 seconds
+which is 48.95% of the time appropriated for a single tick
+At Second number 260, 14.204531850999945 seconds were used for the tick function
+Inserting 262 visible objects
+At Second number 261, 14.314824576999943 seconds were used for the tick function
+Inserting 263 visible objects
+At Second number 262, 14.432968347999953 seconds were used for the tick function
+Inserting 264 visible objects
+At Second number 263, 14.54676152499995 seconds were used for the tick function
+Inserting 265 visible objects
+At Second number 264, 14.664568105999948 seconds were used for the tick function
+Inserting 266 visible objects
+Entity Tick took 0.000464565 seconds
+which is 2.79% of the time appropriated for a single tick
+Entity Render took 0.008150318 seconds
+which is 48.90% of the time appropriated for a single tick
+At Second number 265, 14.772212588999947 seconds were used for the tick function
+Inserting 267 visible objects
+At Second number 266, 14.880318740999943 seconds were used for the tick function
+Inserting 268 visible objects
+At Second number 267, 15.00489093499994 seconds were used for the tick function
+Inserting 269 visible objects
+At Second number 268, 15.117815495999933 seconds were used for the tick function
+Inserting 270 visible objects
+At Second number 269, 15.224029846999935 seconds were used for the tick function
+Inserting 271 visible objects
+Entity Tick took 0.000473692 seconds
+which is 2.84% of the time appropriated for a single tick
+Entity Render took 0.008157470 seconds
+which is 48.94% of the time appropriated for a single tick
+Entity Tick took 0.000473692 seconds
+which is 2.84% of the time appropriated for a single tick
+Entity Render took 0.008157470 seconds
+which is 48.94% of the time appropriated for a single tick
+At Second number 270, 15.346591228999936 seconds were used for the tick function
+Inserting 272 visible objects
+At Second number 271, 15.479844776999938 seconds were used for the tick function
+Inserting 273 visible objects
+At Second number 272, 15.593870494999935 seconds were used for the tick function
+Inserting 274 visible objects
+At Second number 273, 15.718383867999936 seconds were used for the tick function
+Inserting 275 visible objects
+At Second number 274, 15.838425579999942 seconds were used for the tick function
+Inserting 276 visible objects
+Entity Tick took 0.000483520 seconds
+which is 2.90% of the time appropriated for a single tick
+Entity Render took 0.008147101 seconds
+which is 48.88% of the time appropriated for a single tick
+At Second number 275, 15.955200771999952 seconds were used for the tick function
+Inserting 277 visible objects
+At Second number 276, 16.077095305999954 seconds were used for the tick function
+Inserting 278 visible objects
+At Second number 277, 16.212442404999955 seconds were used for the tick function
+Inserting 279 visible objects
+At Second number 278, 16.32794271299996 seconds were used for the tick function
+Inserting 280 visible objects
+At Second number 279, 16.457600054999965 seconds were used for the tick function
+Inserting 281 visible objects
+Entity Tick took 0.000493493 seconds
+which is 2.96% of the time appropriated for a single tick
+Entity Render took 0.008144061 seconds
+which is 48.86% of the time appropriated for a single tick
+At Second number 280, 16.580409026999977 seconds were used for the tick function
+Inserting 282 visible objects
+At Second number 281, 16.711072458999976 seconds were used for the tick function
+Inserting 283 visible objects
+At Second number 282, 16.838062403999974 seconds were used for the tick function
+Inserting 284 visible objects
+At Second number 283, 16.975825890999975 seconds were used for the tick function
+Inserting 285 visible objects
+At Second number 284, 17.10445252099997 seconds were used for the tick function
+Inserting 286 visible objects
+Entity Tick took 0.000504098 seconds
+which is 3.02% of the time appropriated for a single tick
+Entity Render took 0.008138217 seconds
+which is 48.83% of the time appropriated for a single tick
+Entity Tick took 0.000504098 seconds
+which is 3.02% of the time appropriated for a single tick
+Entity Render took 0.008138217 seconds
+which is 48.83% of the time appropriated for a single tick
+At Second number 285, 17.239221687999965 seconds were used for the tick function
+Inserting 287 visible objects
+At Second number 286, 17.376330629999973 seconds were used for the tick function
+Inserting 288 visible objects
+At Second number 287, 17.502994336999976 seconds were used for the tick function
+Inserting 289 visible objects
+At Second number 288, 17.642248833999975 seconds were used for the tick function
+Inserting 290 visible objects
+At Second number 289, 17.769054117999964 seconds were used for the tick function
+Inserting 291 visible objects
+Entity Tick took 0.000514416 seconds
+which is 3.09% of the time appropriated for a single tick
+Entity Render took 0.008209010 seconds
+which is 49.25% of the time appropriated for a single tick
+At Second number 290, 17.900514346999955 seconds were used for the tick function
+Inserting 292 visible objects
+At Second number 291, 18.033498407999957 seconds were used for the tick function
+Inserting 293 visible objects
+At Second number 292, 18.16779701799997 seconds were used for the tick function
+Inserting 294 visible objects
+At Second number 293, 18.31141988899998 seconds were used for the tick function
+Inserting 295 visible objects
+At Second number 294, 18.44810137799996 seconds were used for the tick function
+Inserting 296 visible objects
+Entity Tick took 0.000525164 seconds
+which is 3.15% of the time appropriated for a single tick
+Entity Render took 0.008278158 seconds
+which is 49.67% of the time appropriated for a single tick
+At Second number 295, 18.590170314999956 seconds were used for the tick function
+Inserting 297 visible objects
+At Second number 296, 18.729131391999964 seconds were used for the tick function
+Inserting 298 visible objects
+At Second number 297, 18.872899253999964 seconds were used for the tick function
+Inserting 299 visible objects
+At Second number 298, 19.00584774999997 seconds were used for the tick function
+Inserting 300 visible objects
+At Second number 299, 19.13231036899997 seconds were used for the tick function
+Inserting 301 visible objects
+Entity Tick took 0.000535349 seconds
+which is 3.21% of the time appropriated for a single tick
+Entity Render took 0.008348247 seconds
+which is 50.09% of the time appropriated for a single tick
+Entity Tick took 0.000535349 seconds
+which is 3.21% of the time appropriated for a single tick
+Entity Render took 0.008348247 seconds
+which is 50.09% of the time appropriated for a single tick
+At Second number 300, 19.27163052399997 seconds were used for the tick function
+Inserting 302 visible objects
+At Second number 301, 19.41524381999997 seconds were used for the tick function
+Inserting 303 visible objects
+At Second number 302, 19.548920042999974 seconds were used for the tick function
+Inserting 304 visible objects
+At Second number 303, 19.703005258999966 seconds were used for the tick function
+Inserting 305 visible objects
+At Second number 304, 19.840631959999968 seconds were used for the tick function
+Inserting 306 visible objects
+Entity Tick took 0.000545881 seconds
+which is 3.28% of the time appropriated for a single tick
+Entity Render took 0.008426552 seconds
+which is 50.56% of the time appropriated for a single tick
+At Second number 305, 19.98274399799997 seconds were used for the tick function
+Inserting 307 visible objects
+At Second number 306, 20.13572874399997 seconds were used for the tick function
+Inserting 308 visible objects
+At Second number 307, 20.277072016999963 seconds were used for the tick function
+Inserting 309 visible objects
+At Second number 308, 20.41412898899997 seconds were used for the tick function
+Inserting 310 visible objects
+At Second number 309, 20.56462211499998 seconds were used for the tick function
+Inserting 311 visible objects
+Entity Tick took 0.000556800 seconds
+which is 3.34% of the time appropriated for a single tick
+Entity Render took 0.008500630 seconds
+which is 51.00% of the time appropriated for a single tick
+At Second number 310, 20.71214622099998 seconds were used for the tick function
+Inserting 312 visible objects
+At Second number 311, 20.85353737099997 seconds were used for the tick function
+Inserting 313 visible objects
+At Second number 312, 21.006604877999983 seconds were used for the tick function
+Inserting 314 visible objects
+At Second number 313, 21.141069008999995 seconds were used for the tick function
+Inserting 315 visible objects
+At Second number 314, 21.28760550099999 seconds were used for the tick function
+Inserting 316 visible objects
+Entity Tick took 0.000567318 seconds
+which is 3.40% of the time appropriated for a single tick
+Entity Render took 0.008580246 seconds
+which is 51.48% of the time appropriated for a single tick
+Entity Tick took 0.000567318 seconds
+which is 3.40% of the time appropriated for a single tick
+Entity Render took 0.008580246 seconds
+which is 51.48% of the time appropriated for a single tick
+At Second number 315, 21.443409483999982 seconds were used for the tick function
+Inserting 317 visible objects
+At Second number 316, 21.605419604999987 seconds were used for the tick function
+Inserting 318 visible objects
+At Second number 317, 21.76183776799999 seconds were used for the tick function

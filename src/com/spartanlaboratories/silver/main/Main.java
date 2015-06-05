@@ -6,16 +6,20 @@ import com.spartanlaboratories.engine.structure.*;
 import com.spartanlaboratories.engine.structure.Util.NullColorException;
 
 public class Main extends Map{
+	Company company;
 	private Main(Engine engine) {
 		super(engine);
 	}
 	@Override
 	public void init() {
-		for(int i = 0; i < 500; i++){
+		for(int i = 0; i < 1; i++){
 			new Person(engine);
 		}
 		for(int i = 0; i < 10; i++)
 			new Tree(engine).setLocation(Math.random() * 1000 - 500, Math.random() * 1000 - 500);
+		company = new Company(engine, Person.people.get(0));
+		company.setLocation(0,0);
+		
 		new Human(engine, Alive.Faction.RADIANT);
 		Camera camera = ((Human)engine.controllers.get(0)).getPrimaryCamera();
 		camera.worldLocation.setCoords(0,0);
@@ -23,7 +27,7 @@ public class Main extends Map{
 
 	@Override
 	protected void update() {
-		//if(engine.util.everySecond(1))new Person(engine);
+		if(engine.util.everySecond(1))company.employ(new Person(engine));
 		for(Person p:Person.people){
 			p.tick();
 		}

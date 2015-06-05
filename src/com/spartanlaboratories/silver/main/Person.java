@@ -6,10 +6,9 @@ import com.spartanlaboratories.engine.game.Actor;
 import com.spartanlaboratories.engine.game.GameObject;
 import com.spartanlaboratories.engine.game.VisibleObject;
 import com.spartanlaboratories.engine.structure.Engine;
-import com.spartanlaboratories.engine.structure.Location;
 import com.spartanlaboratories.engine.structure.Util;
 
-public class Person extends Actor{
+public class Person extends FinancialUnit{
 	private class Hunger{
 		boolean starving, hungry, bliss;
 		private double hungerLevel;
@@ -29,7 +28,7 @@ public class Person extends Actor{
 	ActionList taskList = new ActionList();
 	ActionList toDoList = new ActionList(), schedule = new ActionList();;
 	Hunger hunger = new Hunger();
-	Inventory inventory = new Inventory();
+	Company employer;
 	double silver;
 	static ArrayList<Person> people = new ArrayList<Person>();
 	public Person(Engine engine) {
@@ -39,7 +38,7 @@ public class Person extends Actor{
 		
 		setWidth(40);
 		setHeight(40);
-		color = Util.Color.WHITE;
+		color = Util.Color.ORANGE;
 		this.changeBaseSpeed(300);
 		movementType = Actor.MovementType.LOCATIONBASED;
 		setLocation(Math.random() * 1000 - 500, Math.random() * 1000 - 500);
@@ -67,7 +66,10 @@ public class Person extends Actor{
 			
 			if(shouldGetFood())
 				toDoList.add(new Action(this, Action.ActionType.GETAPPLE, new double[0]));
-			
+			if(engine.tickCount == 10 * engine.tickRate){
+				toDoList.add(new Action(this, Action.ActionType.GOTOWORK, null));
+				toDoList.add(new Action(this, Action.ActionType.DOWORK, null));
+			}
 		}catch(IndexOutOfBoundsException e){
 			taskList.add(new Action(this, Action.ActionType.DONOTHING, new double[0]));
 			e.printStackTrace();
@@ -82,6 +84,8 @@ public class Person extends Actor{
 		taskList.add(action);
 		return action;
 	}
+	private static boolean marker;
+	private static long executionTime;
 	public GameObject locateNearest(Class c){
 		/*
 		ArrayList<VisibleObject> objects;
@@ -91,6 +95,13 @@ public class Person extends Actor{
 				if(c.isAssignableFrom(v.getClass()))
 					return v;
 		}*/
+		int offset = 0;
+		if(!marker)offset = engine.tickCount;
+		marker = true;
+		if(engine.tickCount == engine.tickRate + offset)executionTime = 0;
+		long startTime = 0;
+		if(engine.tickCount > engine.tickRate + offset && engine.tickCount < engine.tickRate * 2 + offset)
+			startTime = System.nanoTime();
 		double shortestDistance = 1000000;
 		VisibleObject closestObject = null;
 		for(VisibleObject o: engine.visibleObjects)
@@ -101,6 +112,10 @@ public class Person extends Actor{
 					shortestDistance = distance;
 				}
 			}
+		if(engine.tickCount > engine.tickCount + offset && engine.tickCount < engine.tickRate * 2 + offset)
+			executionTime += System.nanoTime() - startTime;
+		if(engine.tickCount == engine.tickRate * 2)
+			System.out.printf("%d calls with %d objects took %.2f milliseconds\n",engine.tickRate,engine.visibleObjects.size(),(double)(executionTime / 1000000));
 		return closestObject;
 	}
 	private boolean hasFood() {

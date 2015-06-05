@@ -10,7 +10,7 @@ public class Tree extends VisibleObject{
 		super(engine);
 		setHeight(50);
 		setWidth(50);
-		color = Util.Color.WHITE;
+		color = Util.Color.YELLOW;
 		setLocation(Math.random() * 500, Math.random() * 500);
 		setTexture("png", "res/apple tree.png");
 	}
